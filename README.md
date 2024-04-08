@@ -1,4 +1,4 @@
-# Bitte Lies mich!
+# Bitte lies mich!
 
 ## Installationsanleitung
 
